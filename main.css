@@ -17,3 +17,31 @@ h6 {
   color: whitesmoke;
   text-align: center;
 }
+
+
+.iconbutton {
+  display: flex;
+  flex-direction: row;
+}
+
+.fa-brands.fa-instagram {
+  display: block;
+  margin: 0 auto;
+}
+.fa-brands.fa-twitter {
+  display: block;
+  margin: 0 auto;
+}
+.fa-brands.fa-tiktok {
+  display: block;
+  margin: 0 auto;
+}
+.fa-brands.fa-github {
+  display: block;
+  margin: 0 auto;
+}
+
+
+.btn-primary {
+  background-color: #14574f;
+}

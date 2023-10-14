@@ -1,0 +1,19 @@
+body {
+  background-color: #8fbc8f;
+}
+
+#myPic {
+  align-items: center;
+  width: 140px;
+  border-radius: 50%;
+}
+
+h5 {
+  color: whitesmoke;
+  text-align: center;
+}
+
+h6 {
+  color: whitesmoke;
+  text-align: center;
+}
